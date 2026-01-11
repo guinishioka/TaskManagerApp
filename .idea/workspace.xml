@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca81420-c776-4f97-8484-1cd6c8c7a928" name="Changes" comment="" />
+    <list default="true" id="2ca81420-c776-4f97-8484-1cd6c8c7a928" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/components/(tabs)/TaskForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/(tabs)/TaskItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/(tabs)/TaskList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/components/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +28,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "guinishioka"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guinishioka&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/guinishioka/ReactNativeStudies.git",
-    "accountId": "c34bf6ee-1a0b-4e54-89e3-e3806dac0e4e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guinishioka/TaskManagerApp.git&quot;,
+    &quot;accountId&quot;: &quot;c34bf6ee-1a0b-4e54-89e3-e3806dac0e4e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -53,13 +63,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "editing.templates",
     "ts.external.directory.path": "C:\\Users\\guilherme-yutaka\\Documents\\Projetos\\TaskManagerApp\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guilherme-yutaka\Documents\Projetos\TaskManagerApp\app\components\(tabs)" />
       <recent name="C:\Users\guilherme-yutaka\Documents\Projetos\TaskManagerApp" />
     </key>
   </component>
@@ -79,6 +90,9 @@
       <updated>1768079382928</updated>
       <workItem from="1768079383954" duration="549000" />
       <workItem from="1768079972347" duration="4263000" />
+      <workItem from="1768088985139" duration="17000" />
+      <workItem from="1768089013524" duration="76000" />
+      <workItem from="1768089098600" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="base instalation with expo, nativewind">
       <option name="closed" value="true" />
@@ -95,6 +109,21 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -105,7 +134,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -120,5 +149,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="base instalation with expo, nativewind" />
     <option name="LAST_COMMIT_MESSAGE" value="base instalation with expo, nativewind" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/app/components/(tabs)/index.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
